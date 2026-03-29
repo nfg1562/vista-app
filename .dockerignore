@@ -1,0 +1,17 @@
+.git
+.gitignore
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+backend/.venv/
+backend/__pycache__/
+backend/data/*.db
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+.vercel/
