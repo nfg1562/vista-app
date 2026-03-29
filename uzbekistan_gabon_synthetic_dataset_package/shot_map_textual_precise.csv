@@ -1,0 +1,13 @@
+minute,team,player,location_description,zone_detail,result
+6,Gabon,Teddy Averlant,"Surface de réparation, côté droit du gardien (tir croisé à ras de terre)",right_side_box,goal
+14,Uzbekistan,Eldor Shomurodov,"Surface de réparation, zone centrale proche du point de penalty (tête sur centre venant de la droite)",central_box,goal
+22,Uzbekistan,Urozov,"Surface de réparation, côté droit légèrement excentré (frappe après dribble)",right_half_box,saved
+33,Gabon,Bouanga,Entrée de surface côté gauche (frappe lointaine ouverte),left_edge_box,off_target
+41,Uzbekistan,Shomurodov,"Surface de réparation, axe central (tir du pied gauche)",central_box,saved
+52,Uzbekistan,Urozov,Surface de réparation côté droit proche des 6 mètres,right_close_range,saved
+59,Uzbekistan,Jakhongir Urozov,"Surface de réparation côté droit, angle fermé (tir après 1v1)",right_box_angle,goal
+67,Gabon,Averlant,Surface de réparation axe central (tête sur centre),central_box,saved
+74,Uzbekistan,Odilov,Surface de réparation côté droit (tir contré),right_box,blocked
+81,Gabon,Bouanga,Entrée de surface côté gauche (tir cadré mais stoppé),left_edge_box,saved
+90,Uzbekistan,Shomurodov,Surface de réparation axe central (tir rapide),central_box,saved
+94,Uzbekistan,Alisher Odilov,"Surface de réparation côté droit du gardien, proche des 6 mètres (contre-attaque)",right_close_range,goal

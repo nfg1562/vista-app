@@ -1,0 +1,26 @@
+minute,team,player,zone,attack_side,body_part,xg,result,is_real_event,is_synthetic
+4,Gabon,Didier Ndong,final_third,left,left_foot,0.08,no_goal,False,True
+6,Gabon,Teddy Averlant,central_zone,left,right_foot,0.3,goal,True,True
+11,Uzbekistan,Eldor Shomurodov,right_flank,right,left_foot,0.05,no_goal,False,True
+14,Uzbekistan,Eldor Shomurodov,right_flank,right,head,0.37,goal,True,True
+18,Uzbekistan,O. Shukurov,central_zone,center,left_foot,0.03,no_goal,False,True
+22,Gabon,Teddy Averlant,right_flank,right,head,0.18,no_goal,False,True
+27,Uzbekistan,O. Urunov,right_flank,right,head,0.18,no_goal,False,True
+33,Uzbekistan,A. Ganiev,right_flank,right,head,0.06,no_goal,False,True
+41,Uzbekistan,A. Ganiev,right_flank,right,head,0.09,no_goal,False,True
+47,Uzbekistan,O. Urunov,central_zone,center,right_foot,0.21,no_goal,False,True
+52,Uzbekistan,Eldor Shomurodov,right_flank,right,head,0.15,no_goal,False,True
+57,Uzbekistan,O. Urunov,left_flank,left,left_foot,0.06,no_goal,False,True
+59,Uzbekistan,Jakhongir Urozov,right_flank,right,right_foot,0.34,goal,True,True
+63,Uzbekistan,O. Urunov,right_flank,right,head,0.18,no_goal,False,True
+68,Uzbekistan,Eldor Shomurodov,right_flank,right,head,0.06,no_goal,False,True
+73,Gabon,Didier Ndong,left_flank,right,left_foot,0.21,no_goal,False,True
+76,Uzbekistan,O. Urunov,right_flank,right,left_foot,0.21,no_goal,False,True
+80,Uzbekistan,O. Shukurov,right_flank,right,right_foot,0.15,no_goal,False,True
+83,Gabon,Guelor Kanga,right_flank,right,head,0.03,no_goal,False,True
+87,Gabon,Shavy Babicka,right_flank,left,head,0.06,no_goal,False,True
+89,Gabon,Guelor Kanga,central_zone,center,head,0.0,no_goal,False,True
+91,Gabon,Jim Allevinah,final_third,right,left_foot,0.08,no_goal,False,True
+92,Uzbekistan,A. Ganiev,left_flank,left,head,0.0,no_goal,False,True
+94,Uzbekistan,Alisher Odilov,central_zone,right,right_foot,0.24,goal,True,True
+95,Uzbekistan,A. Ganiev,central_zone,center,left_foot,0.0,no_goal,False,True

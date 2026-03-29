@@ -1,0 +1,97 @@
+minute,team,phase,zone,attack_side,action,pressure,outcome,xg,is_goal,description,is_synthetic
+0,Uzbekistan,build_up,central_zone,center,pass_sequence,medium,success,0.0,False,Uzbekistan pass sequence in central zone,True
+1,Gabon,transition,left_flank,left,duel,medium,fail,0.0,False,Gabon duel in left flank,True
+2,Gabon,transition,right_flank,right,progressive_run,medium,success,0.0,False,Gabon progressive run in right flank,True
+3,Gabon,transition,left_flank,left,progressive_run,high,fail,0.0,False,Gabon progressive run in left flank,True
+4,Gabon,transition,final_third,left,shot,high,fail,0.08,False,Gabon shot from final third,True
+5,Gabon,transition,left_flank,left,pass_sequence,high,fail,0.0,False,Gabon pass sequence in left flank,True
+6,Gabon,transition,central_zone,left,shot,medium,success,0.3,True,Transition attack from Gabon's left channel finished by Teddy Averlant,True
+7,Gabon,transition,left_flank,left,duel,high,success,0.0,False,Gabon duel in left flank,True
+8,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan pass sequence in right flank,True
+9,Gabon,transition,left_flank,left,progressive_run,high,success,0.0,False,Gabon progressive run in left flank,True
+10,Gabon,transition,left_flank,left,pass_sequence,medium,success,0.0,False,Gabon pass sequence in left flank,True
+11,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.05,False,Uzbekistan shot from right flank,True
+12,Uzbekistan,build_up,right_flank,right,pass_sequence,high,success,0.0,False,Uzbekistan pass sequence in right flank,True
+13,Gabon,defensive,left_flank,left,recovery,medium,success,0.0,False,Gabon recovery in left flank,True
+14,Uzbekistan,build_up,right_flank,right,shot,high,success,0.37,True,Right-side cross met by Eldor Shomurodov for a headed goal,True
+15,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,neutral,0.0,False,Uzbekistan pass sequence in right flank,True
+16,Gabon,defensive,central_zone,center,turnover,high,success,0.0,False,Gabon turnover in central zone,True
+17,Uzbekistan,build_up,central_zone,center,pass_sequence,medium,success,0.0,False,Uzbekistan pass sequence in central zone,True
+18,Uzbekistan,build_up,central_zone,center,shot,medium,fail,0.03,False,Uzbekistan shot from central zone,True
+19,Gabon,defensive,left_flank,left,duel,medium,success,0.0,False,Gabon duel in left flank,True
+20,Uzbekistan,build_up,right_flank,right,duel,high,neutral,0.0,False,Uzbekistan duel in right flank,True
+21,Uzbekistan,build_up,right_flank,right,turnover,medium,success,0.0,False,Uzbekistan turnover in right flank,True
+22,Gabon,transition,right_flank,right,shot,medium,fail,0.18,False,Gabon shot from right flank,True
+23,Uzbekistan,build_up,central_zone,center,pass_sequence,medium,fail,0.0,False,Uzbekistan pass sequence in central zone,True
+24,Uzbekistan,build_up,right_flank,right,duel,high,success,0.0,False,Uzbekistan duel in right flank,True
+25,Gabon,transition,central_zone,center,duel,medium,neutral,0.0,False,Gabon duel in central zone,True
+26,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,fail,0.0,False,Uzbekistan pass sequence in right flank,True
+27,Uzbekistan,build_up,right_flank,right,shot,medium,neutral,0.18,False,Uzbekistan shot from right flank,True
+28,Gabon,defensive,left_flank,left,turnover,high,fail,0.0,False,Gabon turnover in left flank,True
+29,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,fail,0.0,False,Uzbekistan pass sequence in right flank,True
+30,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan pass sequence in right flank,True
+31,Gabon,defensive,right_flank,right,pass_sequence,medium,success,0.0,False,Gabon pass sequence in right flank,True
+32,Uzbekistan,build_up,right_flank,right,pass_sequence,high,neutral,0.0,False,Uzbekistan pass sequence in right flank,True
+33,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.06,False,Uzbekistan shot from right flank,True
+34,Gabon,defensive,right_flank,right,duel,medium,success,0.0,False,Gabon duel in right flank,True
+35,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan sustains pressure down the right,True
+36,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan sustains pressure down the right,True
+37,Gabon,transition,left_flank,left,pass_sequence,medium,neutral,0.0,False,Gabon pass sequence in left flank,True
+38,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan sustains pressure down the right,True
+39,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,success,0.0,False,Uzbekistan sustains pressure down the right,True
+40,Gabon,transition,central_zone,center,progressive_run,high,neutral,0.0,False,Gabon progressive run in central zone,True
+41,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.09,False,Uzbekistan shot from right flank,True
+42,Uzbekistan,build_up,central_zone,center,pass_sequence,medium,neutral,0.0,False,Uzbekistan pass sequence in central zone,True
+43,Gabon,defensive,central_zone,center,recovery,medium,success,0.0,False,Gabon recovery in central zone,True
+44,Uzbekistan,build_up,right_flank,right,progressive_run,high,fail,0.0,False,Uzbekistan progressive run in right flank,True
+45,Uzbekistan,build_up,right_flank,right,turnover,high,success,0.0,False,Uzbekistan turnover in right flank,True
+46,Gabon,defensive,left_flank,left,recovery,medium,success,0.0,False,Gabon recovery in left flank,True
+47,Uzbekistan,build_up,central_zone,center,shot,medium,fail,0.21,False,Uzbekistan shot from central zone,True
+48,Uzbekistan,build_up,right_flank,right,progressive_run,medium,success,0.0,False,Uzbekistan progressive run in right flank,True
+49,Uzbekistan,build_up,right_flank,right,pass_sequence,high,success,0.0,False,"Uzbekistan builds repeated attacks, mostly from the right side",True
+50,Gabon,defensive,left_flank,left,pass_sequence,medium,success,0.0,False,Gabon pass sequence in left flank,True
+51,Uzbekistan,build_up,right_flank,right,pass_sequence,high,success,0.0,False,"Uzbekistan builds repeated attacks, mostly from the right side",True
+52,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.15,False,Uzbekistan shot from right flank,True
+53,Uzbekistan,build_up,central_zone,center,pass_sequence,high,success,0.0,False,"Uzbekistan builds repeated attacks, mostly from the right side",True
+54,Gabon,transition,left_flank,left,duel,medium,neutral,0.0,False,Gabon duel in left flank,True
+55,Uzbekistan,build_up,right_flank,right,pass_sequence,high,success,0.0,False,"Uzbekistan builds repeated attacks, mostly from the right side",True
+56,Uzbekistan,build_up,right_flank,right,cross,high,success,0.0,False,"Uzbekistan builds repeated attacks, mostly from the right side",True
+57,Uzbekistan,build_up,left_flank,left,shot,medium,fail,0.06,False,Uzbekistan shot from left flank,True
+58,Gabon,defensive,right_flank,right,recovery,medium,neutral,0.0,False,Gabon recovery in right flank,True
+59,Uzbekistan,transition,right_flank,right,shot,medium,success,0.34,True,Jakhongir Urozov beats his marker on the right and scores,True
+60,Uzbekistan,build_up,left_flank,left,progressive_run,high,fail,0.0,False,Uzbekistan progressive run in left flank,True
+61,Uzbekistan,build_up,right_flank,right,pass_sequence,high,neutral,0.0,False,Uzbekistan pass sequence in right flank,True
+62,Gabon,defensive,central_zone,center,duel,medium,fail,0.0,False,Gabon duel in central zone,True
+63,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.18,False,Uzbekistan shot from right flank,True
+64,Uzbekistan,build_up,right_flank,right,progressive_run,medium,fail,0.0,False,Uzbekistan progressive run in right flank,True
+65,Uzbekistan,build_up,right_flank,right,pass_sequence,high,neutral,0.0,False,Uzbekistan pass sequence in right flank,True
+66,Gabon,transition,left_flank,left,cross,medium,fail,0.0,False,Gabon cross in left flank,True
+67,Uzbekistan,build_up,right_flank,right,progressive_run,medium,fail,0.0,False,Uzbekistan progressive run in right flank,True
+68,Uzbekistan,build_up,right_flank,right,shot,medium,fail,0.06,False,Uzbekistan shot from right flank,True
+69,Uzbekistan,build_up,right_flank,right,pass_sequence,medium,fail,0.0,False,Uzbekistan pass sequence in right flank,True
+70,Uzbekistan,transition,right_flank,right,turnover,medium,neutral,0.0,False,Open transition phase with Uzbekistan attacking through the right,True
+71,Gabon,transition,right_flank,right,progressive_run,medium,success,0.0,False,Open transition phase with Gabon attacking through the right,True
+72,Uzbekistan,transition,right_flank,right,duel,high,neutral,0.0,False,Open transition phase with Uzbekistan attacking through the right,True
+73,Gabon,transition,left_flank,right,shot,medium,neutral,0.21,False,Gabon shot from left flank,True
+74,Uzbekistan,transition,central_zone,center,turnover,high,fail,0.0,False,Open transition phase with Uzbekistan attacking through the center,True
+75,Gabon,transition,central_zone,center,duel,medium,success,0.0,False,Open transition phase with Gabon attacking through the center,True
+76,Uzbekistan,transition,right_flank,right,shot,medium,fail,0.21,False,Uzbekistan shot from right flank,True
+77,Gabon,transition,left_flank,left,cross,high,neutral,0.0,False,Open transition phase with Gabon attacking through the left,True
+78,Uzbekistan,transition,right_flank,right,pass_sequence,medium,neutral,0.0,False,Open transition phase with Uzbekistan attacking through the right,True
+79,Gabon,transition,left_flank,left,cross,medium,neutral,0.0,False,Open transition phase with Gabon attacking through the left,True
+80,Uzbekistan,transition,right_flank,right,shot,medium,fail,0.15,False,Uzbekistan shot from right flank,True
+81,Gabon,build_up,central_zone,center,pass_sequence,high,success,0.0,False,Gabon pass sequence in central zone,True
+82,Uzbekistan,transition,left_flank,left,pass_sequence,medium,fail,0.0,False,Uzbekistan pass sequence in left flank,True
+83,Gabon,transition,right_flank,right,shot,medium,fail,0.03,False,Gabon shot from right flank,True
+84,Uzbekistan,build_up,left_flank,left,cross,high,neutral,0.0,False,Uzbekistan cross in left flank,True
+85,Gabon,transition,right_flank,right,progressive_run,medium,success,0.0,False,Gabon pushes in a stretched endgame sequence,True
+86,Uzbekistan,transition,right_flank,right,duel,medium,neutral,0.0,False,Uzbekistan pushes in a stretched endgame sequence,True
+87,Gabon,build_up,right_flank,left,shot,medium,neutral,0.06,False,Gabon shot from right flank,True
+88,Uzbekistan,transition,central_zone,center,pass_sequence,high,success,0.0,False,Uzbekistan pushes in a stretched endgame sequence,True
+89,Gabon,transition,central_zone,center,shot,medium,neutral,0.0,False,Gabon pushes in a stretched endgame sequence,True
+90,Uzbekistan,transition,central_zone,center,duel,high,success,0.0,False,Late phase with Uzbekistan looking for transition opportunities,True
+91,Gabon,build_up,final_third,right,shot,high,fail,0.08,False,Gabon shot from final third,True
+92,Uzbekistan,transition,left_flank,left,shot,high,neutral,0.0,False,Late phase with Uzbekistan looking for transition opportunities,True
+93,Gabon,build_up,right_flank,right,pass_sequence,high,fail,0.0,False,Late phase with Gabon looking for transition opportunities,True
+94,Uzbekistan,transition,central_zone,right,shot,high,success,0.24,True,Late counterattack finished by Alisher Odilov,True
+95,Uzbekistan,transition,central_zone,center,shot,high,fail,0.0,False,Late phase with Uzbekistan looking for transition opportunities,True

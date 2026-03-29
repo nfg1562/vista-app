@@ -1,0 +1,13 @@
+minute,team,player,x,y,zone,body_part,xg,result
+6,Gabon,Teddy Averlant,78,55,right_center_box,right_foot,0.3,goal
+14,Uzbekistan,Eldor Shomurodov,85,50,central_box,header,0.42,goal
+22,Uzbekistan,Urozov,82,60,right_box,right_foot,0.18,saved
+33,Gabon,Bouanga,76,30,left_box,right_foot,0.12,off_target
+41,Uzbekistan,Shomurodov,88,48,central_box,left_foot,0.25,saved
+52,Uzbekistan,Urozov,83,58,right_box,right_foot,0.22,saved
+59,Uzbekistan,Jakhongir Urozov,86,57,right_box,right_foot,0.35,goal
+67,Gabon,Averlant,80,52,central_box,header,0.15,saved
+74,Uzbekistan,Odilov,79,63,right_box,right_foot,0.2,blocked
+81,Gabon,Bouanga,77,28,left_box,right_foot,0.1,saved
+90,Uzbekistan,Shomurodov,84,49,central_box,right_foot,0.28,saved
+94,Uzbekistan,Alisher Odilov,88,54,right_center_box,right_foot,0.25,goal
